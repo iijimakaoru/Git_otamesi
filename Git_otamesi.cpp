@@ -6,8 +6,6 @@
 int main()
 {
     std::cout << "Hello Unti!!\n";
-
-    std::cout << "新規ブランチで行追加\n";
 }
 
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー
